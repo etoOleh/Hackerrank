@@ -1,1 +1,5 @@
+#6 SQL TASKS
+#6 PYTHON TASKS
+
+
 print("12313")
